@@ -6,7 +6,8 @@ Spring Boot accelerates the development of microservices by providing a ready-to
 
 2.	**Explain the differences between **Monolithic** and **Microservices** architectures.**
 
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/a9d4313c-628c-43f5-9cd6-9098b081304c)
+
 
 *In conclusion*, Monolithic Architecture is simpler and often better suited for smaller applications or when a project is in its early stages. Microservices Architecture, on the other hand, is more complex but offers advantages in terms of scalability, maintainability, and flexibility, especially as applications grow and evolve.
 
